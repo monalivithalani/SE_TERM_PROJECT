@@ -1,0 +1,2 @@
+# SE_TERM_PROJECT
+StockWatch
